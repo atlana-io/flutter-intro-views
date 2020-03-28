@@ -1,0 +1,30 @@
+name: example
+description: An example app to show the usage of the IntroViewsFlutter package.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_intro_views:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/air-hostess.png
+    - assets/airplane.png
+    - assets/bus-driver.png
+    - assets/bus.png
+    - assets/hotel.png
+    - assets/taxi.png
+    - assets/taxi-driver.png
+    - assets/waiter.png
+
+  fonts:
+    - family: MyFont
+      fonts:
+        - asset: assets/Fonts/sspu.ttf

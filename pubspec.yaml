@@ -1,0 +1,18 @@
+name: flutter_intro_views
+description: A Flutter package for simple material design app intro screens with some cool animations.
+version: 1.0.0
+homepage: https://github.com/atlana-io/flutter-intro-views
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+environment:
+  sdk: ">=2.0.0-dev.28.0 <3.0.0"
+  flutter: ">=0.1.4 <2.0.0"
