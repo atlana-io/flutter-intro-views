@@ -60,7 +60,7 @@ You can also reference the git repository directly if you want:
 
 ```yaml
 dependencies:
-  flutter-intro-views:
+  flutter_intro_views:
     git: git://github.com/atlana-io/flutter-intro-views
 ```
 
